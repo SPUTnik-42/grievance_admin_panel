@@ -1,0 +1,50 @@
+[
+  {
+    "Month": "January",
+    "No. of Grievances": 23
+  },
+  {
+    "Month": "February",
+    "No. of Grievances": 34
+  },
+  {
+    "Month": "March",
+    "No. of Grievances": 13
+  },
+  {
+    "Month": "April",
+    "No. of Grievances": 56
+  },
+  {
+    "Month": "May",
+    "No. of Grievances": 78
+  },
+  {
+    "Month": "June",
+    "No. of Grievances": 34
+  },
+  {
+    "Month": "July",
+    "No. of Grievances": 123
+  },
+  {
+    "Month": "August",
+    "No. of Grievances": 23
+  },
+  {
+    "Month": "September",
+    "No. of Grievances": 90
+  },
+  {
+    "Month": "October",
+    "No. of Grievances": 34
+  },
+  {
+    "Month": "November",
+    "No. of Grievances": 67
+  },
+  {
+    "Month": "December",
+    "No. of Grievances": 49
+  }
+]
